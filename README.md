@@ -1,8 +1,7 @@
 # Coursera-Data_Structures_and_Algorithms
-My solutions to assignments of [Data structures and algorithms](https://www.coursera.org/specializations/data-structures-algorithms) (by UCSD and HSE) on Coursera. 
-All problems from course 1 to course 5 have been solved.
 
-Course 1: Algorithmic Toolbox [[Certificate]](https://www.coursera.org/account/accomplishments/certificate/P7UWAE5Z4NAJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+
+Course 1: Algorithmic Toolbox
 -
 
 **Algorithmic Warm-up**
